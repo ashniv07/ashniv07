@@ -7,7 +7,7 @@ Currently exploring **AI** and building **agents**, integrating it into applicat
 
 ---
 
-## 🛠️ Core Skills
+## Core Skills
 - **Languages:** Java · JavaScript · Typescript  
 - **Frontend:** React · HTML · CSS
 - **Backend:** Node.js · Express · Langgraph · Springboot
@@ -16,18 +16,18 @@ Currently exploring **AI** and building **agents**, integrating it into applicat
 
 ---
 
-## 📂 Noticable Projects
-- 🛠️ [BookHub](https://github.com/ashniv07/bookHub.git) → A react + spring boot project --> A whole new experience for managing and reading books  
-- 🌍 [SpookCode](https://github.com/ashniv07/spooky-thon.git) → A sppoky themed IDE for learning your own coding
+## Noticable Projects
+- [BookHub](https://github.com/ashniv07/bookHub.git) → A react + spring boot project --> A whole new experience for managing and reading books  
+- [SpookCode](https://github.com/ashniv07/spooky-thon.git) → A haloween themed IDE for learning your own coding
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashniv07&layout=compact&theme=default)  
 
 ---
 
-## 🌱 Currently
+## Currently On..
 - Exploring **Ai tools**  
 - Writing **smaller, smarter code**  
 - Working with building smart agents  
