@@ -1,5 +1,5 @@
 <!-- Banner placeholder -->
-![Banner](https://via.placeholder.com/1024x256.png?text=%5BANJ%5D+Ashley+Johnson+%7C+creating+but+with+code)
+![Banner](./ANJ.png)
 
 # 👋 Hi, I'm Ashley Johnson
 
