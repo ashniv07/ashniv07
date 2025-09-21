@@ -19,22 +19,21 @@ Currently exploring **AI** and **new tech**, always curious and passionate about
 
 ---
 
-## 📂 Selected Work
-- 🛠️ [Project Alpha](https://github.com/ashniv07/project-alpha) → an API-first project built for scalability  
-- 🌍 [Project Beta](https://github.com/ashniv07/project-beta) → lightweight full-stack web app  
-- ⚡ [Project Gamma](https://github.com/ashniv07/project-gamma) → automation tool that saves hours of work  
+## 📂 Noticable Projects
+- 🛠️ [BookHub](https://github.com/ashniv07/bookHub.git) → A react + spring boot project --> A whole new experience for managing and reading books  
+- 🌍 [SpookCode](https://github.com/ashniv07/spooky-thon.git) → A sppoky themed IDE for learning your own coding
 
 ---
 
 ## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashniv07E&layout=compact&theme=default)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashniv07&layout=compact&theme=default)  
 
 ---
 
 ## 🌱 Currently
-- Exploring **cloud-native patterns**  
+- Exploring **Ai tools**  
 - Writing **smaller, smarter code**  
-- Documenting lessons along the way  
+- Working with building smart agents  
 
 ---
 
