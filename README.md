@@ -34,4 +34,4 @@ Currently exploring **AI** and **new tech**, always curious and passionate about
 
 ---
 
-📫 Reach me at: [LinkedIn](www.linkedin.com/in/ashley-nivedha-johnson) · [Portfolio](https://ashleynivedha-portfolio.vercel.app/)
+📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/ashley-nivedha-johnson/) · [Portfolio](https://ashleynivedha-portfolio.vercel.app/)
