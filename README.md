@@ -2,8 +2,8 @@
 ![Banner](./ANJ.png)
 
 
-I'm a developer who loves blending code and **design** to create things that are both functional and engaging.
-Currently exploring **AI** and **new tech**, always curious and passionate about learning along the way.
+I'm a **full-stack developer** who loves blending code and **design** to create things that are both functional and engaging.
+Currently exploring **AI** and building **agents**, integrating it into applications, and experimenting with ways to make technology smarter and more impactful.
 
 ---
 
