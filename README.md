@@ -1,9 +1,6 @@
 <!-- Banner placeholder -->
 ![Banner](./ANJ.png)
 
-# 👋 Hi, I'm Ashley Johnson
-
-> "Creation is my language; code is my tool."
 
 I'm a developer who loves blending code and **design** to create things that are both functional and engaging.
 Currently exploring **AI** and **new tech**, always curious and passionate about learning along the way.
