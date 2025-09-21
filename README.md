@@ -34,4 +34,4 @@ Currently exploring **AI** and building **agents**, integrating it into applicat
 
 ---
 
-📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/ashley-nivedha-johnson/) · [Portfolio](https://ashleynivedha-portfolio.vercel.app/)
+Feel free to check me up on: [LinkedIn](https://www.linkedin.com/in/ashley-nivedha-johnson/) · [Portfolio](https://ashleynivedha-portfolio.vercel.app/)
