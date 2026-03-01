@@ -1,5 +1,5 @@
 <!-- Banner placeholder -->
-![Banner](./ANJ.png)
+![Banner](./ANJ1.png)
 
 
 I'm a **full-stack developer** who loves blending code and **design** to create things that are both functional and engaging.
