@@ -22,8 +22,9 @@ Currently exploring **AI** and building **agents**, integrating it into applicat
 
 ---
 
-## GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashniv07&layout=compact&theme=default)  
+## Contribution Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ashniv07&theme=github-dark&hide_border=true)
 
 ---
 
