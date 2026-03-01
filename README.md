@@ -18,7 +18,7 @@ Currently exploring **AI** and building **agents**, integrating it into applicat
 
 ## Noticable Projects
 - [BookHub](https://github.com/ashniv07/bookHub.git) → A react + spring boot project --> A whole new experience for managing and reading books  
-- [SpookCode](https://github.com/ashniv07/spooky-thon.git) → A haloween themed IDE for learning your own coding
+- [Agent-S.H.I.E.L.D](https://github.com/ashniv07/Agent-S.H.I.E.L.D.git) → A real-time AI agent monitoring and governance system with risk scoring and policy enforcement, built using Node.js, Express, React, WebSockets, SQLite, and LangGraph.  
 
 ---
 
